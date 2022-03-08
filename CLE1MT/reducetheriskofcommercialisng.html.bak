@@ -1,0 +1,47 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+	    <title> Solutions to Food Insecurity </title>
+	    <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+	</head>
+    
+	<body>
+	     <div id="wrapper" >
+		     <div id="header">
+			    <h1> Solutions to Food Insecurity </h1>
+				 <div id="navigation">
+				   <ul>
+				     <li><a href="index.html">Home</a></li>
+					 <li><a href="reducefoodwaste.html"> Reduce Foodwaste </a> </li>
+					 <li><a href="reducetheriskofcommercialisng.html"> Reduce the Risk of Commercialising</a> </li>
+					 <li><a href="improveexistinginfrastructuralprograms.html"> Improve Existing Infrastructural Programs</a> </li>
+				 
+			 </div>
+		</div>
+		<div id="content">
+		<h1> Reduce the Risk of Commercialisng </h1>
+		<div>
+		<div>
+		<p class="content-wasted">  </p>
+			<div class="content-what">
+				<p> If food is grown for the purposes of feeding the community or nation, food
+				insecurity levels will go down. Farmers can produce more food crops and will be
+				able to produce cash crops when there are enough food crops in the market.
+				There will be less risk of commercialization of food if it is sufficient in the
+				market. Governments should also implement programs that can allow farmers
+				to know when there is sufficient food for everyone.</p>
+			</div>		
+			<div class="content-image">
+				  <img src="reduce.jpg" width="100%" title="reduce" alt="reduce">
+			</div>
+		   <div id="footer">
+		     <h4><a href="#"> www.solutionstofoodinsecurity.com</h4> 
+		   </div>
+		</div>
+	<body>
+</html>		
+		
+		   
+
+		 
+                   
