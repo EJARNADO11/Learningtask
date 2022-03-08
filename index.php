@@ -7,7 +7,7 @@
     <h1> Welcome To My Website! I am EJ ARNADO!</h1>
     <ul>
        <li><a href="index.php">HOME</a></li>
-       <li><a href="/CLE1MT/index.html">LEARNING TASK 2</a></li>
+       <li><a href="/CLE1MT/index.html">CLEMT1</a></li>
     </ul>
  </body>
 </html>
