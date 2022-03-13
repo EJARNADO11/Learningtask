@@ -1,0 +1,29 @@
+
+body{
+	background-image: url(background.jpg);
+	background-position: center;
+	background-size: cover;
+}
+#wrapper{
+		width: auto;
+		height: 500px;
+		padding: 2px;
+		border: 0;
+}
+#wrapper div{
+		 width: 250px;
+		 height: 400px;
+		 margin: 10px;
+		 border: 2px solid #783f04;
+		 float: left;
+		 font-size: 17px;
+		 color:#FFAE00;
+}
+#wrapper div img {
+ 		 width: 100px;
+ 		 height: 100px;
+}
+h1{
+	    color: #FFAE00;
+		}
+		
