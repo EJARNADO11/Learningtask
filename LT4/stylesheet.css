@@ -1,0 +1,25 @@
+body {
+	background-image: url(background.jpg); 
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+.font-one{
+		   font-size: 40px;
+		   font-family: "Rubik Wet Paint",cursive;
+		   color: #212F3C;
+}
+.font-two{
+		   font-size: 40px;
+		   font-family: "Alumni Sans Inline One", cursive;
+		   color: #212F3C;
+		
+}          		
+.font-three{
+		     font-size: 40px;
+		     font-family: "Shadows Into Light",cursive;
+			 color: #212F3C;
+}
+p{
+		      text-align: center;
+		}
