@@ -10,6 +10,7 @@
        <li><a href="/LT2/recipes.html">Learning Task 2</a></li>
        <li><a href="/LT3/index.html">Learning Task 3</a></li>
        <li><a href="/LT4/index.html">Learning Task 4</a></li>
+       <li><a href="/LT5/index.html">Midterm Exam</a></li>
        <li><a href="/CLE1MT/index.html">Midterm Exam</a></li>
         
 
