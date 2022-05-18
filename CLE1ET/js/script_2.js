@@ -1,0 +1,5 @@
+/*eslint-env browser*/
+var d = new Date();
+document.body.innerHTML = "<h1>Today's date is " + d + "<h1>";
+
+object.style.transitionTimingFunction="linear"
