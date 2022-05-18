@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+     <head>
+	     <title> Salmon in the oven </title>
+	 <style>
+		     a{
+		  text-decoration:none;
+		  display: inline-block;
+		  padding: 8px 16px;
+		 }
+		a:hover{
+		  background-color:#ddd;
+		  color:black;
+		  
+		  .previous{
+		  background-color:#f1f1f1
+		  color:black;
+		  }
+		  .next{
+		  background-color:#4caff0
+		  color:white;
+		  border-radius: 5px;
+		  }
+		</style>
+	</head> 
+	<body>
+	     <h1> Salmon in the oven </title>
+		 <p> <img src="images/salmonintheoven.jpg" alt="Salmon in the oven" width="450" height="300"> </p>
+		 <h2> Ingredients </h2>
+	<ul>
+	     <li> 1 fillet of salmon, skinned(tails are cheapest)</li>
+		 <li> Any veggies you like: tomatoe, pepper,zucchinis, etc </li>
+		 <li> Liquid cream </li>
+		 <li> Black pepper </li>
+		 <li> Salt </li>
+	</ul>
+	     <h2> Method </h2>
+	<ol>
+	     <li> Put the salmon in an oven dish - add chopped veggies and cream on top-
+		 with salt and pepper. </li>
+		 
+		 <li> Grill on a high heat for about 25 min. If it is a thick fillet, it will take longer to
+		  cook through, always check if the middle if cooked. </li>
+		  
+		 <li> You can serve it with rice or pasta. </li>
+	</ol>
+	<center>
+		<a href="eggfriedrice.php" class="previous">&laquo;previous</a>
+     </center>	
+	
+</body>
+		
+</html>		

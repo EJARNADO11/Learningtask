@@ -1,0 +1,25 @@
+body {
+	background-image: url(../images/lt4.jpg); 
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;	
+}
+.font-one{
+		   font-size: 40px;
+		   font-family: "Rubik Wet Paint",cursive;
+		   color: black;
+}
+.font-two{
+		   font-size: 40px;
+		   font-family: "Alumni Sans Inline One", cursive;
+		   color: black;
+		
+}          		
+.font-three{
+		     font-size: 40px;
+		     font-family: "Shadows Into Light",cursive;
+			 color: black;
+}
+p{
+		      text-align: center;
+		}
