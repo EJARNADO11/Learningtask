@@ -12,7 +12,7 @@
        <li><a href="/LT4/index.html">Learning Task 4</a></li>
        <li><a href="/LT5/index.html">Midterm Exam</a></li>
        <li><a href="/CLE1MT/index.html">Midterm Exam</a></li>
-       <li><a href="/CLE1MT/index.php">ENDTERM</a></li>
+       <li><a href="/CLE1ET/index.php">ENDTERM</a></li>
         
         
 
